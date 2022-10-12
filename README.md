@@ -12,6 +12,7 @@
   <h3> ♡ Apaixonada em design 🤍</h3>
   <h3> ♡ Atualmente finalizando meu TCC (acabaa pelo amor de Deuss)</h3>
   <h3> ♡ Novo interesse: Aprendendo a desenvolver jogos para web <3 </h3>
+  <h3> ♡ Tenho github desde 2020 e só agora tomei vergonha na cara e decidi usar :) </h3>
  <div>
 
  <br>
