@@ -27,7 +27,7 @@
 <div align="center">
   <a href="https://github.com/duxpereira">
   <img height="160px" src="https://github-readme-stats.vercel.app/api?username=dudxpereira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <br>
+  <br><br><br>
   <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudxpereira&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
