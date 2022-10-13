@@ -53,7 +53,7 @@
 
 <div style="display: inline_block" align="center">
   <p align="center">
-  <a href="www.linkedin.com/in/dudxpereira"><img height="54" width="54" src="https://img.icons8.com/color/96/000000/linkedin.png" alt=" linkedin"/></a>
+  <a href="https://www.linkedin.com/in/dudxpereira/"><img height="54" width="54" src="https://img.icons8.com/color/96/000000/linkedin.png" alt=" linkedin"/></a>
   <a href="https://www.instagram.com/__dudaxx_p_/"><img height="55" width="55" src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="instagram" /></a>
   <a href="https://dev.to/dudxpereira"><img height="50" width="50" src="https://cdn-icons-png.flaticon.com/512/5969/5969051.png" alt="dev.to"/></ a>
 </p>
