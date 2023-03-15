@@ -20,19 +20,6 @@
 
 <!-- Dados do perfil-->
 
-<h3> ✧ Dados: </h3>
-
-<br>
-
-<div align="center">
-  <a href="https://github.com/duxpereira">
-  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=dudxpereira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <br><br><br>
-  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudxpereira&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-
-<h2></h2>
-
 <!-- Linguagens-->
 
   <h3> </> ✧ Ferramentas que utilizo: </h3>
@@ -46,19 +33,3 @@
 
 <h2></h2>
 
-<!-- Como contactar -->
-
-  <h3> </> ✧ Entrar em contato: </h3>
-
-<div style="display: inline_block" align="center">
-  <p align="center">
-  <a href="https://www.linkedin.com/in/dudxpereira/"><img height="54" width="54" src="https://img.icons8.com/color/96/000000/linkedin.png" alt=" linkedin"/></a>
-  <a href="https://www.instagram.com/__dudaxx_p_/"><img height="55" width="55" src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="instagram" /></a>
-  <a href="https://dev.to/dudxpereira"><img height="50" width="50" src="https://cdn-icons-png.flaticon.com/512/5969/5969051.png" alt="dev.to"/></ a>
-</p>
-</div>
-
-<h2></h2>
-
-
-<h2> Por hoje é só pessoal <3 </h2>
